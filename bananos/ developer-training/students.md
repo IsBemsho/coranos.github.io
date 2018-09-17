@@ -14,6 +14,7 @@
 | 09     | azuLeto#1082          | Completed Lesson One   |[azuleto.github.io]       |
 | 10     | Deathmetall#7371      | Completed Lesson Seven |[tomasmetal23.github.io]  |
 | 11 | not_periquito # 8194 | completed lesson one | [parakeet1.github.io]   |
+| 12     |IsBємsh👽C94´#0467      | Completed lesson one   |[IsBemsho.github.io]:     |
 [coranos.github.io]: https://coranos.github.io/
 [mayrapina007.github.io]: https://mayrapina007.github.io/
 [not-idol.github.io]: https://not-idol.github.io/
@@ -23,3 +24,4 @@
 [tomasmetal23.github.io]: https://tomasmetal23.github.io/
 [azuleto.github.io]: https://azuleto.github.io
 [parakeet1.github.io]: https://github.com/parakeet1/ 
+[IsBemsho.github.io]: https://github.com/IsBemsho/
